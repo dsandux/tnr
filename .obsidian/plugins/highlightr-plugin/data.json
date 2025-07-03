@@ -1,0 +1,14 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Red": "#FF5582A6",
+    "Yellow": "#FFF3A3A6",
+    "Purple": "#D2B3FFA6"
+  },
+  "highlighterOrder": [
+    "Red",
+    "Yellow",
+    "Purple"
+  ]
+}

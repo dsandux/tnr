@@ -1,0 +1,19 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1751393208599",
+      "name": "Ollama",
+      "apiKey": "",
+      "url": "http://localhost:11434",
+      "type": "ollama",
+      "model": "gemma3:4b",
+      "availableModels": [
+        "deepseek-r1:latest",
+        "gemma3:4b"
+      ]
+    }
+  ]
+}
